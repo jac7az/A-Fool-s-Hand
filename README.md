@@ -1,2 +1,2 @@
-# A-Fool-s-Hand
+# A Fool's Hand
 Point-based card game
