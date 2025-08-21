@@ -1,5 +1,5 @@
 # A Fool's Hand
-Point-based card game
+2-player card game modified into a point-based single-player game
 # Rules 
 1.   Each player starts with 5 cards in their hand
 2.   There are three groups in the middle, each with 2 cards.
