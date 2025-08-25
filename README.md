@@ -15,6 +15,6 @@
 * Straight: 60 points
 * Full House: 55 points
 * Twin Pairs: 30 points
-* Three Sages: 30 points
+* Three Sages: 25 points
 * Two Stars: 15 points
 * No Hand: 0 points
