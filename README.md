@@ -9,7 +9,7 @@
 6.  At the end of the 4th round, points are added up for a final score. Multiple combinations in a single zone are counted.
 
 # Combos
-*   Straight Flush: 120 points
+*   Straight Flush: 125 points
 *   Four Knights: 80 points
 * Flush: 65 points
 * Straight: 60 points
